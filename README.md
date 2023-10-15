@@ -2,8 +2,8 @@
 # contact: miladtorabi65@gmail.com
 ## Problem 1: Python Challenges
 #### Introduction
- Data Types
- Strings
+ + Data Types
++ Strings
  Sets
  Collections
  Date and Time
