@@ -16,6 +16,6 @@
 + XML
 + Closures and Decorations
 + Numpy
-## Problem 2: Problem Solving Challenges
+## + Problem 2: Problem Solving Challenges
 + the answers to these assignments are represented in Jupyter Notebook.
 
