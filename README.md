@@ -1,6 +1,6 @@
 # ADM-HMW1-Milad Torabi
 # contact: miladtorabi65@gmail.com
-# HacherRank profile: https://www.hackerrank.com/miladtorabi65?hr_r=1
+# HacherRank profile: https://www.hackerrank.com/miladtorabi65
 - This repository is comprised of homework1 of my ADM class at Sapienza University, 
 - the homework was like a warm up to be engrossed with coding in python. 
 ## Problem 1: Python Challenges
