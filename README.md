@@ -18,4 +18,10 @@
 + Numpy
 ##  Problem 2: Problem Solving Challenges
 + the answers to these assignments are represented in Jupyter Notebook.
++ Birthday Cake Candles
++ Kangaroo
++ Strange Advertising
++ Recursive Digit Sum
++ Insertion Sort Part 1
++ Insertion Sort Part 2
 
