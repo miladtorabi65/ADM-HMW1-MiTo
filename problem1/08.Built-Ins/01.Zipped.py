@@ -1,4 +1,8 @@
 a = input()
-# using the lamnda function to filter and then sort
-a = sorted(a,key = lambda x:(x.isdigit() and int(x)%2==0, x.isdigit(),x.isupper(),x.islower(),x))
-print(*(a),sep = '')
+a = a.split()
+n, x = int(a[0]), int(a[1])
+scores = []
+for i in range(x):
+    scores.append(list(map(float, input().split())))
+for i in zip(*scores):
+    print(sum(i) / len(i))
